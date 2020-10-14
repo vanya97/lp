@@ -1,2 +1,1 @@
-# lp
-Отчет
+# labs.stankin.io
